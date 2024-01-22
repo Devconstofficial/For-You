@@ -1,16 +1,15 @@
-# new_app3
+# For You
+### Social Mobile Application
 
-A new Flutter project.
+### Description
+- For You is not just another social media app; it's your canvas for self-expression. Here, users can upload their posts, photos, and moments, sharing their life's highlights with the world. But what sets For You apart is the power it puts in your hands.
 
-## Getting Started
+- With For You, you have the option to boost your posts through a range of customizable packages, allowing you to reach a wider and more engaged audience. Elevate your online presence, gain followers, and make your content shine. Join For You today and unlock a world of creativity and influence at your fingertips
+## Gallery 
+## Get connected with people
+![image](https://github.com/Devconstofficial/For-You/assets/156744519/234e28ab-f15a-4826-91c1-40511bca2ae2)
 
-This project is a starting point for a Flutter application.
+## Post your Activities and get connected with people
+![image](https://github.com/Devconstofficial/For-You/assets/156744519/ae07764a-4e83-4b4a-b090-6cc222ad2470)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
